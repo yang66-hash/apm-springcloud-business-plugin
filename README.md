@@ -16,8 +16,8 @@ The full project can be built by cloning to your local system, changing to the r
 Prerequisites: git, maven and JDK 11+ installed
 
 ```aidl
-git clone https://github.com/yang66-hash/apm-springcloud-business-plugins-example.git
-cd apm-springcloud-business-plugins-example
+git clone https://github.com/yang66-hash/apm-springcloud-business-plugin.git
+cd apm-springcloud-business-plugin
 mvn clean package
 ```
 
